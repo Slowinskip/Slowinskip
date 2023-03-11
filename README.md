@@ -1,5 +1,8 @@
-### Hi there 👋
-My name is Patryk and I like programming :)
+# Hi there 👋
+### My name is Patryk and I like programming :)
+
+[GitHub Pages](https://pages.github.com/)
+[Linkedin Pages]([https://pages.github.com/](https://www.linkedin.com/in/patryk-s%C5%82owi%C5%84ski-2a8840269/))
 
 <!--
 **Slowinskip/Slowinskip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
