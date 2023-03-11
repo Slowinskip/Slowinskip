@@ -1,8 +1,8 @@
 # Hello World! 👋
-### My name is Patryk and I like programming :)
+## My name is Patryk and I like programming :)
 
-# Worth seeing:
-[GitHub Pages](https://pages.github.com/)
+### Worth seeing:
+[GitHub Pages](https://pages.github.com/) <br>
 [Linkedin Pages](https://www.linkedin.com/in/patryk-s%C5%82owi%C5%84ski-2a8840269/)
 
 <!--
